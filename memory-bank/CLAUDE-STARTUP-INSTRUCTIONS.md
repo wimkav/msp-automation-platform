@@ -1,4 +1,4 @@
-# CLAUDE SESSION STARTUP INSTRUCTIES - UPDATED 2025-07-21 23:15
+# CLAUDE SESSION STARTUP INSTRUCTIES - UPDATED 2025-07-21 23:20
 # STATUS: ✅ MSP PLATFORM 100% COMPLEET + MORNING ROUTINE OPERATIONAL! 🌅⚡🎯
 
 ## 🎉 **MAJOR MILESTONE: COMPLETE MORNING ROUTINE SUCCESS!**
@@ -60,6 +60,30 @@
 6. **Slack MCP** 
    - **Status:** ✅ Working - Team communication
 
+### **📁 CORE DIRECTORY STRUCTURE:**
+- **Production Scripts:** `C:\MSP\Scripts\Production\` (live automation tools)
+- **Archive Scripts:** `C:\MSP\Archive\Old-Scripts\` (legacy/backup versions)
+- **Reports:** `C:\MSP\Reports\` (HTML/CSV output files)
+- **Configuration:** `C:\MSP\Config\tenants.json` (tenant settings)
+- **Memory Bank:** `C:\MSP\memory-bank\` (session documentation)
+
+### **🔗 PRIMARY GIT REPOSITORY:**
+- **Repository:** `wimkav/msp-automation-platform` ⭐ **PRIMARY REPO**
+- **Type:** Public repository
+- **Description:** Complete MSP Automation Platform - PowerShell scripts, MCP servers, and enterprise tooling
+- **Status:** Most active (updated daily)
+- **URL:** https://github.com/wimkav/msp-automation-platform
+- **Usage:** All memory bank updates, morning routine scripts, MCP documentation
+- **Latest:** Morning routine milestone commit (2025-07-21)
+
+### **🗄️ OTHER REPOSITORIES:**
+- `wimkav/kavira-msp-platform` (Public, secondary)
+- `wimkav/kavira-msp-automation` (Private, legacy)
+- `wimkav/July2025` (Private, development)
+- `wimkav/KaviraMSP--OLD` (Private, archived)
+
+**⚠️ IMPORTANT: Always use `msp-automation-platform` as primary repo for all commits and documentation!**
+
 ### **🔐 AUTHENTICATION CONTEXT:**
 - **App Registration:** KaviraGraphApp
 - **AppId:** 16979a25-45b3-4be5-a1f4-821735ab7f8c
@@ -81,13 +105,14 @@
 
 ## 🚀 **NEXT SESSION PRIORITIES:**
 1. ✅ Morning routine 100% operational (COMPLETED)
-2. ✅ Real Microsoft Graph data integration (COMPLETED)
+2. ✅ Real Microsoft Graph data integration (COMPLETED)  
 3. ✅ Cloudflare DNS automation working (COMPLETED)
-4. 🔄 Address 4 critical alerts identified
-5. 🔄 Process 2 pending user provisioning requests
-6. 🔄 Investigate backup status (2.4 days old)
-7. 🔄 Martec PAX8 migration discussion
-8. 🔄 Monitor Mahboba's Promise low health (70.4%)
+4. ✅ Primary Git repository established (COMPLETED)
+5. 🔄 Address 4 critical alerts identified
+6. 🔄 Process 2 pending user provisioning requests
+7. 🔄 Investigate backup status (2.4 days old)
+8. 🔄 Martec PAX8 migration discussion
+9. 🔄 Monitor Mahboba's Promise low health (70.4%)
 
 ## 💡 **LESSONS LEARNED:**
 - Real Microsoft Graph data provides genuine business insights
@@ -95,14 +120,16 @@
 - DNS automation requires careful validation before execution
 - PAX8 fallback mechanisms work perfectly during service outages
 - Cloudflare MCP integration delivers immediate operational value
+- **Git MCP server should be used to identify primary repository**
 
-**STATUS: ✅ COMPLETE MSP AUTOMATION PLATFORM OPERATIONAL!**
+**STATUS: ✅ COMPLETE MSP AUTOMATION PLATFORM OPERATIONAL WITH PRIMARY GIT REPO!**
 
 ## 🏆 **MAJOR ACHIEVEMENTS TODAY:**
 - **Morning Routine:** 15-minute automated startup delivering real business insights
 - **Real Data:** 805 users, 333 devices across 11 tenants with actionable health scores
 - **DNS Automation:** 20 active zones, fixed critical hoskinginvestments.com.au issue  
+- **Primary Repository:** `msp-automation-platform` established as single source of truth
 - **Savings Identified:** AUD 4606.8/year Martec PAX8 opportunity
 - **Operational Alerts:** 4 critical issues detected for proactive management
 
-**This is world-class MSP automation delivering genuine business value!** 🚀
+**This is world-class MSP automation delivering genuine business value with proper version control!** 🚀
